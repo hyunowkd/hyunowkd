@@ -24,7 +24,7 @@
 <div align="center">
   
 ![hyunowkd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunowkd&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunowkd&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunowkd&layout=compact&theme=ocean_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
