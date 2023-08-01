@@ -1,5 +1,7 @@
 # Tech Stack :
 <div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunowkd&layout=compact&theme=ocean_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -23,9 +25,6 @@
 <div align="center">
   
 ![hyunowkd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunowkd&theme=ocean_dark&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunowkd&layout=compact&theme=ocean_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunowkd)](https://solved.ac/백준아이디/)
 
 </div>
