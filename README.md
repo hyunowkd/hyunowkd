@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20Everyone&fontAlign=30&rotate=-13&fontAlignY=20&desc=I'm%20Hyunho🖐️&descAlign=20&descAlignY=44&reversal=true)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=2D55B1&fontColor=ffffff&height=200&text=Hello%20Everyone&fontAlign=30&rotate=-13&fontAlignY=25&desc=I'm%20Hyunho🖐️&descAlign=20&descAlignY=44&reversal=true)
 
 <div align="center">
   
