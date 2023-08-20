@@ -4,13 +4,13 @@
   
 [![](https://visitcount.itsvg.in/api?id=hyunowkd&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-#### 안녕하세요 백엔드 개발자 조현호입니다!
+안녕하세요 백엔드 개발자 조현호입니다!
 
 
 </div>
 
 <p align="center">
-  <img src="https://github.com/hyunowkd/hyunowkd/assets/65902105/d1524ac3-4b18-4dfc-9a54-7ea142532d7f width="500" height="500"/>
+  <img src="https://github.com/hyunowkd/hyunowkd/assets/65902105/d1524ac3-4b18-4dfc-9a54-7ea142532d7f width="400" height="400"/>
 </p>
 
 # Tech Stack :
