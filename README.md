@@ -4,7 +4,7 @@
   
 [![](https://visitcount.itsvg.in/api?id=hyunowkd&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-### 안녕하세요 백엔드 개발자 조현호입니다!
+### 안녕하세요, 백엔드 개발자 조현호의 깃허브입니다!
 
 
 </div>
